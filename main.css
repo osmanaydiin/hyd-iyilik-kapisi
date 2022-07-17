@@ -1166,7 +1166,7 @@
             width: 80vw;
         }
         .asagi img {
-            top: 90vh;
+            top: 85vh;
             height: 10vw;
         }
         .paragraf p {
@@ -1282,10 +1282,6 @@
             height: 30vw;
             line-height: 0px;
             justify-content: space-around;
-        }
-        .asagi img {
-            top: 90vh;
-            height: 10vw;
         }
         .proje-sureci p {
             font-size: 3.1vw;
